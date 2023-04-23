@@ -14,6 +14,9 @@ files.upload()
 ```
 Donde se debe subir dicho token. Cabe resaltar que este proceso solo es necesario para el notebook "01_Exploracion_data".
 
+## Videos 
+- [Entrega 2](https://youtu.be/Rt2ZE9N7T-E)
+
 ##
 ```
                               ░░              ░░              ░░                                
