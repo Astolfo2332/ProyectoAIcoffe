@@ -7,15 +7,15 @@ Se intentara predecir la calidad de café arábigo según sus características (
 
 ## Instrucciones
 Al ser un dataset de Kagel este necesitara una autentificación, mediante un token que puede ser descargado desde el propio Kagel siguiendo el siguiente tutorial: https://www.kaggle.com/docs/api, específicamente en la parte de "Authentication". Después de esto se corre la parte de código:
-"""
+``` python
 from google.colab import files
 
 files.upload()
-"""
+```
 Donde se debe subir dicho token. Cabe resaltar que este proceso solo es necesario para el notebook "01_Exploracion_data".
 
-
-
+##
+```
                               ░░              ░░              ░░                                
                               ░░              ░░              ░░                                
                                 ░░              ░░              ░░                              
@@ -64,3 +64,5 @@ Donde se debe subir dicho token. Cabe resaltar que este proceso solo es necesari
                   ████                                                    ████                  
                       ██▓▓▓▓██                                    ▓▓▓▓▓▓██                      
                               ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                              
+
+```
